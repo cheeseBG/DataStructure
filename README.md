@@ -1,2 +1,2 @@
 # DataStructure
-Study data structure and GUI with Python. 
+Study data structure and GUI with Python3. 
